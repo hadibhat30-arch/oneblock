@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "onebloack-G4qP.aternos.me",
+    "ip": "ladyfish.aternos.host",
     "port": 14738,
     "version": "1.20.1",
     "try-creative": false
